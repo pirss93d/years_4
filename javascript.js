@@ -10,7 +10,6 @@ const AutumnFon = "/img/Autumn_FHD.mp4";
 
 
 
-
 btnWinter.addEventListener("click", function () {
   if(SummerFon != SummerFon){}
  });
