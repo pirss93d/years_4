@@ -11,8 +11,8 @@ const AutumnFon = "/img/Autumn_FHD.mp4";
 
 
 btnWinter.addEventListener("click", function () {
-   bg_video.src =  WinterFon;
-  
+      bg_video.src =  WinterFon;
+   
  });
 const btnSummer = document.getElementById("Summer"); //лето
 btnSummer.addEventListener("click", function () {
